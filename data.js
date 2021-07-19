@@ -22,7 +22,7 @@ const person = {
             alive: true
         }
     ],
-    adress: {
+    address: {
         city: 'Vilnius',
         street: 'Gedimino pr.',
         houseNumber: 1,

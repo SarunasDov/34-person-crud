@@ -2,7 +2,7 @@ const data = require('./data');
 const Person = require('./Person');
 
 const jonas = new Person(data);
-// console.log(jonas);
+
 jonas.fullName();
 // Jonas Jonaitis
 
